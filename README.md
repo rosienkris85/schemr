@@ -1,1 +1,1 @@
-Add line counting and circular heatmaps in Ultralytics Solutions (#7113)
+Add Amazon Sagemaker Docs integrations page (#7293)
