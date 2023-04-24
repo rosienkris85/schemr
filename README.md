@@ -1,1 +1,1 @@
-Fix OBB xywh-angle concatenation bug (#7404)
+ultralytics 8.1.27 batched tracking fixes (#8842)
