@@ -1,1 +1,1 @@
-Pin duckdb<=0.9.2 to avoid 0.10.0 errors (#8181)
+Add HeatMap guide in real-world-projects + Code in Solutions Directory (#6796)
