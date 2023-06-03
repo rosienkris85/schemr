@@ -1,1 +1,1 @@
-Add missing single-line docstrings (#8362)
+Fix solution functions description + integrations/openvino.md cover image update (#8170)
