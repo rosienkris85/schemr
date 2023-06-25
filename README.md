@@ -1,1 +1,1 @@
-Compress docs images (#8124)
+YAML reformat (#7669)
