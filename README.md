@@ -1,1 +1,1 @@
-Fix RTDETR generate anchor grid out of boundary (#7247)
+Add OBB models to GITHUB_ASSET_NAMES (#7425)
