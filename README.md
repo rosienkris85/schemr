@@ -1,1 +1,1 @@
-New HUB Cloud Training docs page (#8174)
+Python refactorings and simplifications (#7549)
