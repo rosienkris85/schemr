@@ -1,1 +1,1 @@
-OBB: Fix when training on zip data (#8680)
+Compare plt.get_backend() in lowercase (#8409)
