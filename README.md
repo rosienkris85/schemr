@@ -1,1 +1,1 @@
-ultralytics 8.1.17 fix ClassificationDataset caching (#8358)
+ultralytics 8.0.235 YOLOv8 OBB train, val, predict and export (#4499)
