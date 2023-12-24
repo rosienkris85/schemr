@@ -1,1 +1,1 @@
-Improve Docs Modes tables (#8266)
+Fix docker.yaml double-quote version bug (#7452)
