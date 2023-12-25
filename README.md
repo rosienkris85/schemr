@@ -1,1 +1,1 @@
-OBB: update metrics (#7593)
+Resize angle, count, and stage on keypoint number change (#7598)
