@@ -1,1 +1,1 @@
-fix val each epoch
+OpenVino 2024.0.0 (#8726)
