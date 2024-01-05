@@ -1,1 +1,1 @@
-New HUB Cloud Training docs page (#8174)
+OpenVino 2024.0.0 (#8726)
