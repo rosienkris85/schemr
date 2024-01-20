@@ -1,1 +1,1 @@
-fix for KeyError: 'epoch' (#48)
+Hold failed upload metrics and upload with next upload metrics (#8513)
