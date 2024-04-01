@@ -1,1 +1,1 @@
-Pin jax and jaxlib to fix tensorflowjs exports (#6988)
+ultralytics 8.0.225 multi-video tracker bug fix (#6862)
