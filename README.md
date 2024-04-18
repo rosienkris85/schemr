@@ -1,1 +1,1 @@
-Update CITATION.cff with cffinit corrections (#8658)
+Fix RTDETR generate anchor grid out of boundary (#7247)
