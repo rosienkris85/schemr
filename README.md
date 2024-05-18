@@ -1,1 +1,1 @@
-docs: update view-results-in-terminal.md (#66)
+Integrate OpenVINO CUMULATIVE_THROUGHPUT mode batched inference (#8834)
