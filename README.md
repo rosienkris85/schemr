@@ -1,1 +1,1 @@
-Hold failed upload metrics and upload with next upload metrics (#8513)
+Add quantization support to TensorFlow.js converter (#7008)
