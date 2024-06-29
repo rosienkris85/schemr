@@ -1,1 +1,1 @@
-Rename model_id to model.id (#8447)
+Feature: Create HUB Models from CLI or Python Script (#7316)
