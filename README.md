@@ -1,1 +1,1 @@
-fix resume training
+Fix docs links (#7096)
