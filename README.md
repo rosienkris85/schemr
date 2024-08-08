@@ -1,1 +1,1 @@
-fix for predicting with batch_size > 1 (#47)
+Avoid creating -hub dir without processing images (#8334)
