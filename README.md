@@ -1,1 +1,1 @@
-Avoid creating -hub dir without processing images (#8334)
+Allow Annotator PIL.Image inputs (#8397)
