@@ -1,1 +1,1 @@
-ultralytics 8.0.224 Counting and Heatmaps updates (#6855)
+Pin jax and jaxlib to fix tensorflowjs exports (#6988)
