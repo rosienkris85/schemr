@@ -1,1 +1,1 @@
-Feature: Create HUB Models from CLI or Python Script (#7316)
+Fix solution functions description + integrations/openvino.md cover image update (#8170)
