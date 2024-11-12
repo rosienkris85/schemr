@@ -1,1 +1,1 @@
-Fix cmake requirements for ARM64 (#8589)
+Add YOLOv8 LibTorch C++ inference example (#7090)
